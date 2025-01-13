@@ -1,0 +1,15 @@
+E:\ITI\C#\Project\Project.Business\bin\Debug\net9.0\Project.Business.deps.json
+E:\ITI\C#\Project\Project.Business\bin\Debug\net9.0\Project.Business.dll
+E:\ITI\C#\Project\Project.Business\bin\Debug\net9.0\Project.Business.pdb
+E:\ITI\C#\Project\Project.Business\bin\Debug\net9.0\project.data.Access.dll
+E:\ITI\C#\Project\Project.Business\bin\Debug\net9.0\project.data.Access.pdb
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.AssemblyInfoInputs.cache
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.AssemblyInfo.cs
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project..7565AC8A.Up2Date
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.dll
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\refint\Project.Business.dll
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\Project.Business.pdb
+E:\ITI\C#\Project\Project.Business\obj\Debug\net9.0\ref\Project.Business.dll

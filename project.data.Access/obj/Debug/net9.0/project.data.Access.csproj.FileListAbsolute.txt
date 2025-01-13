@@ -1,0 +1,12 @@
+E:\ITI\C#\Project\project.data.Access\bin\Debug\net9.0\project.data.Access.deps.json
+E:\ITI\C#\Project\project.data.Access\bin\Debug\net9.0\project.data.Access.dll
+E:\ITI\C#\Project\project.data.Access\bin\Debug\net9.0\project.data.Access.pdb
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.AssemblyInfoInputs.cache
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.AssemblyInfo.cs
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.dll
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\refint\project.data.Access.dll
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\project.data.Access.pdb
+E:\ITI\C#\Project\project.data.Access\obj\Debug\net9.0\ref\project.data.Access.dll
