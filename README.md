@@ -1,3 +1,4 @@
+[Visit Video on LinkedIn](https://www.linkedin.com/posts/amany-mousa-281114255_windowsforms-adonet-csharp-activity-7284624522408775681-CCeX?utm_source=share&utm_medium=member_desktop)
 Excited to Share My First Project: Shop Master Windows Forms Application Using ADO.NET!*
 
 I recently developed a Windows Forms application that interacts with a database using ADO.NET. The project focuses on user login and registration, allowing users to view and store their favorite products while enabling admins to manage products and categories. Here's a breakdown of the project:
